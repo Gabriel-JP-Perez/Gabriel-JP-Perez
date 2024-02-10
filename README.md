@@ -8,6 +8,6 @@
 
 <h2> Certifications</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+](https://i.imgur.com/JpwEqLk.png)
 
 
